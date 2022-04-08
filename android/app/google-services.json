@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1006891082484",
+    "project_id": "flutter-blog-b14f4",
+    "storage_bucket": "flutter-blog-b14f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006891082484:android:d9d9a15ee8bb65c407b4a1",
+        "android_client_info": {
+          "package_name": "wrona.blog.blog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006891082484-suth2e1vffh20m6h0ntjj1rqb0f8036a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFmW4vNmYFVdImx49UdAcnv49TpOxoL6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006891082484-suth2e1vffh20m6h0ntjj1rqb0f8036a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
